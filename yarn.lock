@@ -456,9 +456,9 @@
     dockerode "^3.3.4"
 
 "@matterlabs/zksync-contracts@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@matterlabs/zksync-contracts/-/zksync-contracts-0.6.1.tgz#39f061959d5890fd0043a2f1ae710f764b172230"
-  integrity sha512-+hucLw4DhGmTmQlXOTEtpboYCaOm/X2VJcWmnW4abNcOgQXEHX+mTxQrxEfPjIZT0ZE6z5FTUrOK9+RgUZwBMQ==
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@matterlabs/zksync-contracts/-/zksync-contracts-0.6.2.tgz#e883ea327de640c1738ec713785c007179510d89"
+  integrity sha512-I05OdN+BVS5rXgNnvHy0FAXPvwlReJLq4ZakyYIrZcDx+I1w1eTfBtvyLf0AcmUYbUwCz4mvR0f0bkk4PqBwHg==
 
 "@metamask/eth-sig-util@^4.0.0":
   version "4.0.1"
