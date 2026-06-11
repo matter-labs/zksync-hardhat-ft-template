@@ -5,7 +5,7 @@
   "author": "Dennis <dh@matterlabs.dev>",
   "license": "MIT",
   "devDependencies": {
-    "@matterlabs/hardhat-zksync-deploy": "^0.6.5",
+    "@matterlabs/hardhat-zksync-deploy": "^1.0.0",
     "@matterlabs/hardhat-zksync-solc": "^0.4.2",
     "@matterlabs/hardhat-zksync-verify": "^0.1.8",
     "@matterlabs/zksync-contracts": "^0.6.1",
